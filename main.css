@@ -13,18 +13,20 @@ a:hover {
     color: #217ee7;
 }
 
+
 #content {
     position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) ;
-    text-align: center;
+    text-align: left;
     max-width: 520px;
     max-height:600px;
     padding: 32px;
     line-height: 1.6em;
 }
+
 
 .avatar {
     border-radius: 50%;

@@ -9,6 +9,12 @@
 
     <!-- Define title -->
     <title>Miheer Dewaskar</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
 
     <!-- Include favicon. Use, e.g., https://favicon.io/ -->
     <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
@@ -39,22 +45,81 @@
   </head>
 
   <body>
+      
+    <!-- Navigation -->
+	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+	  <div class="container">
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		  <ul class="nav navbar-nav">
+				  <li><a href="index.html">Home</a></li>
+				  <li><a href="#publications">Publications</a></li> 
+				  <li><a href="CV_MiheerDewaskar.pdf">CV</a></li> 
+		  </ul>
+		</div>
+	  </div>
+	</nav>  
+      
     <section id="content">
       <!-- Avatar image -->
-      <img src="image.jpg" alt="Miheer Dewaskar" class="avatar" />
+      <img src="image.jpg" alt="Miheer Dewaskar's photo" class="avatar" />
 
       <!-- Text -->
-      <h1>Hi, I'm Miheer Dewaskar</h1>
+    <h2>Hi, I'm Miheer Dewaskar</h2>
      <p>
-        I am a postdoc in the <a href="https://stat.duke.edu">Department of Statistical Science</a> at Duke University, working with <a href="https://scholars.duke.edu/person/dunson">David Dunson</a> on the foundations of robust and interpretable Bayesian inference. I obtained my PhD in Statistics and Operations Research from UNC Chapel Hill in May 2021, under the direction of <a href="https://shankarbhamidi.web.unc.edu">Shankar Bhamidi</a>, <a href="https://abudhiraja.web.unc.edu">Amarjit Budhiraja</a>, and <a href="https://nobel.web.unc.edu">Andrew Nobel</a>.  
+        I am a postdoc in the <a href="https://stat.duke.edu">Department of Statistical Science</a> at Duke University, working with <a href="https://scholars.duke.edu/person/dunson">David Dunson</a> on developing methods for robust inference in parametric models and non-parametric Bayesian clustering. I obtained my PhD in Statistics and Operations Research from <a href="https://stor.unc.edu">UNC Chapel Hill</a> in 2021, under the direction of <a href="https://shankarbhamidi.web.unc.edu">Shankar Bhamidi</a>, <a href="https://abudhiraja.web.unc.edu">Amarjit Budhiraja</a>, and <a href="https://nobel.web.unc.edu">Andrew Nobel</a> in which we developed a method for groupwise correlation mining and applied it to the data-integration problem of eQTL analysis in genomics, and asymptotically studied the power-of-choice load-balancing scheme.  
       </p>
 
 <p>
-<h3>My research in probability and theoretical statistics</h3> 
- My research interests include correlation mining, density based clustering, non-parametric estimation, asymptotics of model-based inference under misspecification, concentration inequalities, stochastic processes, and large deviation theory. 
+    <h3>Research in Data and Systems science</h3> 
+My research spans a wide range of mathematical topics that include: formal methods in computer science for system verification, queuing  theory and stochastic processes, and design of statistical theory and methodology for data analysis. I take a principled approach to solving problems, leveraging mathematical tools like:
+        <ul>
+            <li> Game Theory, Fixed point procedures, and Convex Analysis. </li>
+            <li> Concentration inequalities, Stochastic Calculus, and Large Deviation theory.</li>
+            <li> Multiple testing, Covariance estimation, and Bayesian asymptotics.</li>
+        </ul>
 </p>
+      
+            <!-- Publications -->
 
-Please see my google scholar profile (click icon below) for my publications. More details about me can be found in my <a href="Resume_MiheerDewaskar.pdf">CV</a> here. My email: <a href="mailto:miheer.dewaskar@duke.edu">miheer.dewaskar@duke.edu</a>.
+<div>    
+<h2 id="publications">Publications</h2>  
+* indicates joint first authors. <br/>    
+<strong>Peer-reviewed</strong><br/>
+<ul>
+    <li class="paper"><a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Near-equilibrium-fluctuations-for-supermarket-models-with-growing-choices/10.1214/21-AAP1729.short"> Near Equilibrium Fluctuations for Supermarket Models with Growing Choices (2022). </a> Bhamidi S, Budhiraja A, and <b>Dewaskar M</b>. <i>Annals of Applied Probability</i>, VOL. 32 (NO. 3), 2083-2138.
+    </li>
+    
+    <li class="paper"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9852756&casa_token=Iu0mZEW7G0kAAAAA:kYTZJ_eDkhlRsjeexE9m1_9kntp8fK9JQuDg2kRbZ94m05jGrrvnC88ia10cLKpzQHP7AV_E"> NExG: Provable and Guided State Space Exploration of Neural Network Control Systems using Sensitivity Approximation (2022) </a> Goyal M, <b>Dewaskar M</b>,  Duggirala PS. <i> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</i>, 2022, doi: 10.1109/TCAD.2022.3197524.
+    </li>
+    
+    <li class="paper"><a href="https://lmcs.episciences.org/5647"> Controlling a population (2019). </a> Bertrand N, <b>Dewaskar M</b>, Genest B, Gimbert H, and Godbole A. <i>Logical Methods in Computer Science</i>, Vol. 15, Issue 3.
+    </li>
+    <li class="paper"><a href="https://drops.dagstuhl.de/opus/volltexte/2017/7800/"> Controlling a population (2017). </a>Bertrand N, <b>Dewaskar M</b>, Genest B, Gimbert H. <i> 28th International Conference on Concurrency Theory</i> (CONCUR 2017).
+    </li>
+</ul>
+            
+<strong> Pre-prints / In preparation </strong><br/>
+<ul>
+    <li class="paper"><a href="https://arxiv.org/abs/2009.05079"> Finding Groups of Cross-Correlated Features in Multi-View data. </a> <b> Dewaskar M </b>, Palowitch J, He M, Love M.I., Nobel A.B. Under revision for <i>Journal of Machine Learning Research</i>
+    </li>
+    <li class="paper"><a href="https://arxiv.org/abs/2303.10525"> Robustifying likelihoods by optimistically re-weighting data.</a> <b> Dewaskar M </b>*, Tosh C*, Knoblauch J, Dunson D.B. Submitted to the <i>Journal of American Statistical Association</i>
+    </li>
+    <li class="paper"> <a href="#"> Bayesian Level-set Clustering. </a> Buch D*, <b>Dewaskar M</b>*, Dunson D.B. (In preparation).
+    </li>
+</ul>
+</div>
+
+<!--More details about me can be found in my <a href="CV_MiheerDewaskar.pdf">CV</a> here. My email: <a href="mailto:miheer.dewaskar@duke.edu">miheer.dewaskar@duke.edu</a>.-->
       <!-- Icons -->
       <ul class="icons">
         <li>
@@ -78,7 +143,6 @@ Please see my google scholar profile (click icon below) for my publications. Mor
           <a href="https://scholar.google.com/citations?user=YRGJLtoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         </li>
       </ul>
-
     </section>
   </body>
  
