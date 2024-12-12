@@ -1,7 +1,22 @@
 ---
-title: "miheerdew.github.io"
+title: "Miheer Dewaskar"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/miheer-dewaskar-a6b3a511a
+    - text: GitHub
+      href: https://github.com/miheerdew
+    - text: Email
+      href: mailto:mdewaskar@unm.edu
 ---
 
-This is a Quarto website.
+I am an Assistant Professor in the [Department of Mathematics at Statistics](https://math.unm.edu) at the [University of New Mexico](https://www.unm.edu/).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+During **2021-2024**, I worked as a postdoc at [Duke University](https://stat.duke.edu/) with [David Dunson](https://scholars.duke.edu/person/dunson), developing methods for robust Bayesian inference and clustering.
+
+During **2016-2021**, I obtained a PhD in Statistics and Operations Research from [UNC Chapel Hill](https://stor.unc.edu/), under the direction of [Shankar Bhamidi](https://shankarbhamidi.web.unc.edu/), [Amarjit Budhiraja](https://abudhiraja.web.unc.edu/) in Queuing theory and [Andrew Nobel](https://nobel.web.unc.edu/) on application of multiple-testing and correlation mining to problems in genomics like eQTL analysis. 

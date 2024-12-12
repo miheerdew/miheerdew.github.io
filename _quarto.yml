@@ -2,18 +2,22 @@ project:
   type: website
 
 website:
-  title: "miheerdew.github.io"
+  title: "Miheer Dewaskar"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research-overview.qmd
+      - research-papers.qmd
+      - teaching.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
