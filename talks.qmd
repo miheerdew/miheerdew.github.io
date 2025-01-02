@@ -1,0 +1,54 @@
+---
+title: "Presentations"
+---
+
+
+## Invited talks
+
+**Robustifying Likelihoods by Optimistically Re-Weighting Data** presented at: 
+
+- [Department of Mathematics](https://www.math.iitb.ac.in/), Indian Institute of Technology (IIT) Bombay, India, July 2024.
+- [Department of Mathematics](https://www.uta.edu/academics/schools-colleges/science/departments/mathematics), University of Texas at Arlington, Feb 2024.
+- [Department of Mathematics and Statistics](https://math.unm.edu/), University of New Mexico, Feb 2024.
+- [Chennai Mathematical Institute](https://www.cmi.ac.in/), India, Feb 2024.
+- [Indian Institute of
+Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), India, Jan 2024.
+- [Department of Statistics \& Data Science](https://sciences.ucf.edu/statistics/), University of Central Florida, Jan 2024.  
+- [Henry Ford Health](https://www.henryford.com/), Nov 2023 (online).
+-  [International Indian Statistical Association Conference](https://www.intindstat.org/conference), Colorado School of Mines,
+USA, June 2023.
+- LIFEPLAN meeting, [University of Helsinki](https://www.helsinki.fi/en), Finland, March 2023 (online).
+
+Other talks:
+
+- **Analysis of Coarsened Liklihood using Large Deviation Asymptotics**. [Department of Mathematics](https://www.math.iitb.ac.in/),  Indian Institute of Technology (IIT) Bombay, India, Oct 2023 (online).
+- **Independence, Lp spaces, and Expectation Inequalities**. Guest Lecture in
+Probability and Measure Theory, [Duke University](https://duke.edu/), USA, September 2022.
+- **Groupwise Cross-Correlation Mining in Bi-view Data**. [Indian Institute of
+Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), India, August 2022.
+- **Guided State-Space Exploration in Closed Loop Control Systems Using Sensitivity Approximation**. [Systems and Control Engineering](https://www.sc.iitb.ac.in/), Indian
+Institute of Technology (IIT) Bombay, India, July 2022.
+- **Finding Significant Communities in Cross-Correlation Networks derived from Multi-view Data**. [Statistical and Applied Mathematical Sciences Institute](https://en.wikipedia.org/wiki/Statistical_and_Applied_Mathematical_Sciences_Institute)
+(SAMSI), USA, January 2021 (online).
+- **Asymptotic analysis of the Power of Choice phenomenon for Queuing Models**. [UNC–Duke Probability Seminar](https://probabilitygroup.web.unc.edu/), USA, January 2020.
+- **Detecting Bimodules in eQTL data: finding mutually correlated sets across two data types**. [UNC Computational Medicine](https://www.med.unc.edu/compmed/) meeting, USA, April 2019.
+- **Controlling a population of Markov Decision Processes**. IRISA Lab and Inria Rennes Bretagne-Atlantique research center [team SUMO](https://www.irisa.fr/sumo/) retreat, France,
+June 2015.
+
+## Contributed talks
+
+- **Fitting models with misspecified supports using Wasserstein coarsened posteriors**. [Bayesian Young Statisticians Meeting](https://baysmjisba.github.io/recollections.html), November 2023 (online conference).
+- **Near Equilibrium fluctuations for Supermarket models with growing choices**.
+[Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/), August 2020 (online
+conference).
+
+
+## Conference posters
+
+**Robustifying Likelihoods by Optimistically Re-weighting Data.** Presented at:
+
+- [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/) at Toronto, Canada, August 2023. 
+- [Discussion meeting on Data Science: Probabilistic and Optimization methods (DSPOM2023)](https://www.icts.res.in/discussion-meeting/DSPOM2023), [International Center for Theoretical Science (ICTS)](https://www.icts.res.in), India, July 2023. 
+- Office of Naval Research's (ONR) Mathematical Data Science program review meeting, Stanford University, USA, April 2023.
+
+**Finding stable groups of Cross-Correlated features in Bi-view Data**. Speed presentation and poster at [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2022/) at Washington DC, USA, August 2022.

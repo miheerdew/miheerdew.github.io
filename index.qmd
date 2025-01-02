@@ -15,7 +15,7 @@ about:
       href: mailto:mdewaskar@unm.edu
 ---
 
-I am an Assistant Professor in the [Department of Mathematics at Statistics](https://math.unm.edu) at the [University of New Mexico](https://www.unm.edu/).
+I am an Assistant Professor in the [Department of Mathematics and Statistics](https://math.unm.edu) at the [University of New Mexico](https://www.unm.edu/).
 
 During **2021-2024**, I worked as a postdoc at [Duke University](https://stat.duke.edu/) with [David Dunson](https://scholars.duke.edu/person/dunson), developing methods for robust Bayesian inference and clustering.
 

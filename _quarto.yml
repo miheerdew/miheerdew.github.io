@@ -7,10 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - research-overview.qmd
-      - research-papers.qmd
+      - href: research-overview.qmd
+        text: My research
+      - href: research-papers.qmd
+        text: Papers
       - teaching.qmd
+      - talks.qmd
+      - href: more.qmd
+        text: More
+        
 
 format:
   html:

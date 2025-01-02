@@ -1,3 +1,12 @@
 ---
 title: "Teaching"
 ---
+
+## University of New Mexico 
+
+- STA 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024, Spring 2025).
+
+## Previous experience
+
+- STA 211: Mathematics of Regression ([Fall 2023](https://www2.stat.duke.edu/courses/Fall23/sta211.01/), [Spring 2024](https://www2.stat.duke.edu/courses/Spring24/sta211.01/)) at Duke University.
+- Introduction to Statistical Modeling (Fall 2019) at UNC Chapel Hill.
