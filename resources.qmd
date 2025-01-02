@@ -1,0 +1,9 @@
+---
+title: "resources.qmd"
+---
+
+## How to build a website in Quarto
+
+<https://ucsb-meds.github.io/creating-quarto-websites/>
+
+<https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/>
