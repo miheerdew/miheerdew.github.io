@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "STA 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024, Spring 2025)."
+  },
+  {
+    "objectID": "teaching.html#university-of-new-mexico",
+    "href": "teaching.html#university-of-new-mexico",
+    "title": "Teaching",
+    "section": "",
+    "text": "STA 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024, Spring 2025)."
+  },
+  {
+    "objectID": "teaching.html#previous-experience",
+    "href": "teaching.html#previous-experience",
+    "title": "Teaching",
+    "section": "Previous experience",
+    "text": "Previous experience\n\nSTA 211: Mathematics of Regression (Fall 2023, Spring 2024) at Duke University.\nIntroduction to Statistical Modeling (Fall 2019) at UNC Chapel Hill."
+  },
+  {
+    "objectID": "research-papers.html",
+    "href": "research-papers.html",
+    "title": "Research papers",
+    "section": "",
+    "text": "\\(^1\\) indicates joint first authors. \\(^2\\) indicates primary contribution and alphabetical author order.\n\nPeer-reviewed\n\nFinding Groups of Cross-Correlated Features in Multi-View data (2023). Dewaskar M, Palowitch J, He M, Love M.I., Nobel A.B. Journal of Machine Learning Research, VOL. 24. Code\nNear Equilibrium Fluctuations for Supermarket Models with Growing Choices (2022). Bhamidi S, Budhiraja A, and Dewaskar M\\(^2\\). Annals of Applied Probability, VOL. 32 (NO. 3), 2083-2138.\nNExG: Provable and Guided State Space Exploration of Neural Network Control Systems using Sensitivity Approximation (2022) Goyal M, Dewaskar M, Duggirala PS. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, doi: 10.1109/TCAD.2022.3197524.\nControlling a population (2019). Bertrand N, Dewaskar M\\(^2\\), Genest B\\(^2\\), Gimbert H, and Godbole A. Logical Methods in Computer Science, Vol. 15, Issue 3.\nControlling a population (2017). Bertrand N, Dewaskar M\\(^2\\), Genest B\\(^2\\), Gimbert H. 28th International Conference on Concurrency Theory (CONCUR 2017).\n\n\n\nPreprints\n\nRobustifying likelihoods by optimistically re-weighting data. Dewaskar M\\(^1\\), Tosh C\\(^1\\), Knoblauch J, Dunson D.B. Under revision at the Journal of American Statistical Association. Code\nBayesian Level-set Clustering. Buch D\\(^1\\), Dewaskar M\\(^1\\), Dunson D.B. Submitted to the Journal of Machine Learning Research. Code"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Robustifying Likelihoods by Optimistically Re-Weighting Data presented at:\n\nDepartment of Mathematics, Indian Institute of Technology (IIT) Bombay, India, July 2024.\nDepartment of Mathematics, University of Texas at Arlington, Feb 2024.\nDepartment of Mathematics and Statistics, University of New Mexico, Feb 2024.\nChennai Mathematical Institute, India, Feb 2024.\nIndian Institute of Science Education and Research (IISER) Pune, India, Jan 2024.\nDepartment of Statistics & Data Science, University of Central Florida, Jan 2024.\n\nHenry Ford Health, Nov 2023 (online).\nInternational Indian Statistical Association Conference, Colorado School of Mines, USA, June 2023.\nLIFEPLAN meeting, University of Helsinki, Finland, March 2023 (online).\n\nOther talks:\n\nAnalysis of Coarsened Liklihood using Large Deviation Asymptotics. Department of Mathematics, Indian Institute of Technology (IIT) Bombay, India, Oct 2023 (online).\nIndependence, Lp spaces, and Expectation Inequalities. Guest Lecture in Probability and Measure Theory, Duke University, USA, September 2022.\nGroupwise Cross-Correlation Mining in Bi-view Data. Indian Institute of Science Education and Research (IISER) Pune, India, August 2022.\nGuided State-Space Exploration in Closed Loop Control Systems Using Sensitivity Approximation. Systems and Control Engineering, Indian Institute of Technology (IIT) Bombay, India, July 2022.\nFinding Significant Communities in Cross-Correlation Networks derived from Multi-view Data. Statistical and Applied Mathematical Sciences Institute (SAMSI), USA, January 2021 (online).\nAsymptotic analysis of the Power of Choice phenomenon for Queuing Models. UNC–Duke Probability Seminar, USA, January 2020.\nDetecting Bimodules in eQTL data: finding mutually correlated sets across two data types. UNC Computational Medicine meeting, USA, April 2019.\nControlling a population of Markov Decision Processes. IRISA Lab and Inria Rennes Bretagne-Atlantique research center team SUMO retreat, France, June 2015."
+  },
+  {
+    "objectID": "talks.html#invited-talks",
+    "href": "talks.html#invited-talks",
+    "title": "Presentations",
+    "section": "",
+    "text": "Robustifying Likelihoods by Optimistically Re-Weighting Data presented at:\n\nDepartment of Mathematics, Indian Institute of Technology (IIT) Bombay, India, July 2024.\nDepartment of Mathematics, University of Texas at Arlington, Feb 2024.\nDepartment of Mathematics and Statistics, University of New Mexico, Feb 2024.\nChennai Mathematical Institute, India, Feb 2024.\nIndian Institute of Science Education and Research (IISER) Pune, India, Jan 2024.\nDepartment of Statistics & Data Science, University of Central Florida, Jan 2024.\n\nHenry Ford Health, Nov 2023 (online).\nInternational Indian Statistical Association Conference, Colorado School of Mines, USA, June 2023.\nLIFEPLAN meeting, University of Helsinki, Finland, March 2023 (online).\n\nOther talks:\n\nAnalysis of Coarsened Liklihood using Large Deviation Asymptotics. Department of Mathematics, Indian Institute of Technology (IIT) Bombay, India, Oct 2023 (online).\nIndependence, Lp spaces, and Expectation Inequalities. Guest Lecture in Probability and Measure Theory, Duke University, USA, September 2022.\nGroupwise Cross-Correlation Mining in Bi-view Data. Indian Institute of Science Education and Research (IISER) Pune, India, August 2022.\nGuided State-Space Exploration in Closed Loop Control Systems Using Sensitivity Approximation. Systems and Control Engineering, Indian Institute of Technology (IIT) Bombay, India, July 2022.\nFinding Significant Communities in Cross-Correlation Networks derived from Multi-view Data. Statistical and Applied Mathematical Sciences Institute (SAMSI), USA, January 2021 (online).\nAsymptotic analysis of the Power of Choice phenomenon for Queuing Models. UNC–Duke Probability Seminar, USA, January 2020.\nDetecting Bimodules in eQTL data: finding mutually correlated sets across two data types. UNC Computational Medicine meeting, USA, April 2019.\nControlling a population of Markov Decision Processes. IRISA Lab and Inria Rennes Bretagne-Atlantique research center team SUMO retreat, France, June 2015."
+  },
+  {
+    "objectID": "talks.html#contributed-talks",
+    "href": "talks.html#contributed-talks",
+    "title": "Presentations",
+    "section": "Contributed talks",
+    "text": "Contributed talks\n\nFitting models with misspecified supports using Wasserstein coarsened posteriors. Bayesian Young Statisticians Meeting, November 2023 (online conference).\nNear Equilibrium fluctuations for Supermarket models with growing choices. Bernoulli-IMS One World Symposium 2020, August 2020 (online conference)."
+  },
+  {
+    "objectID": "talks.html#conference-posters",
+    "href": "talks.html#conference-posters",
+    "title": "Presentations",
+    "section": "Conference posters",
+    "text": "Conference posters\nRobustifying Likelihoods by Optimistically Re-weighting Data. Presented at:\n\nJoint Statistical Meeting (JSM) at Toronto, Canada, August 2023.\nDiscussion meeting on Data Science: Probabilistic and Optimization methods (DSPOM2023), International Center for Theoretical Science (ICTS), India, July 2023.\nOffice of Naval Research’s (ONR) Mathematical Data Science program review meeting, Stanford University, USA, April 2023.\n\nFinding stable groups of Cross-Correlated features in Bi-view Data. Speed presentation and poster at Joint Statistical Meeting (JSM) at Washington DC, USA, August 2022."
+  },
+  {
+    "objectID": "research-overview.html",
+    "href": "research-overview.html",
+    "title": "My research",
+    "section": "",
+    "text": "My current research develops general principled frameworks for robust statistical inference and exploratory data analysis that have applications in a variety of fields like genomics, neuroscience, and social science. I am developing theoretically motivated Bayesian and frequentist frameworks to robustly fit likelihood-based models that may be misspecified. This methodology is relevant in the current age where we tend to have big data that is potentially biased or corrupted (e.g. arising in surveys, health records, etc.). I have also developed new exploratory data analysis methods, e.g. those based on novel Bayesian density-based clustering and iterative-testing to find combinatorial structures (e.g. networks) for integration of multi-view data. Given my strong background in stochastic processes and large deviation theory, in the future I aim to develop methods for analysis of time series data and for data assimilation problems that arise in climate modeling."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Miheer Dewaskar",
+    "section": "",
+    "text": "I am an Assistant Professor in the Department of Mathematics and Statistics at the University of New Mexico.\nDuring 2021-2024, I worked as a postdoc at Duke University with David Dunson, developing methods for robust Bayesian inference and clustering.\nDuring 2016-2021, I obtained a PhD in Statistics and Operations Research from UNC Chapel Hill, under the direction of Shankar Bhamidi, Amarjit Budhiraja in Queuing theory and Andrew Nobel on application of multiple-testing and correlation mining to problems in genomics like eQTL analysis."
+  },
+  {
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "Service & Awards",
+    "section": "",
+    "text": "Statistics: Biometrika (2024)\nApplied Probability: Mathematics of Operations Research (2023)"
+  },
+  {
+    "objectID": "more.html#journals-refereed",
+    "href": "more.html#journals-refereed",
+    "title": "Service & Awards",
+    "section": "",
+    "text": "Statistics: Biometrika (2024)\nApplied Probability: Mathematics of Operations Research (2023)"
+  },
+  {
+    "objectID": "more.html#awards-during-education",
+    "href": "more.html#awards-during-education",
+    "title": "Service & Awards",
+    "section": "Awards during education",
+    "text": "Awards during education\n\nCambanis-Hoeffding-Nicholson award (2017) by Department of Statistics and Operations Research at UNC Chapel Hill for top performance in the qualifying exam.\nMedal of Excellence (2016) by Chennai Mathematical Institute for top performance in M.Sc. Computer Science.\nCharpak Scholarship (2015) by French Embassy to pursue a research internship with Team SUMO.\nINSPIRE Scholarship (2011-14) by Department of Science and Technology in India to pursue an education in the basic sciences."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "resources.qmd",
+    "section": "",
+    "text": "https://ucsb-meds.github.io/creating-quarto-websites/\nhttps://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/"
+  },
+  {
+    "objectID": "resources.html#how-to-build-a-website-in-quarto",
+    "href": "resources.html#how-to-build-a-website-in-quarto",
+    "title": "resources.qmd",
+    "section": "",
+    "text": "https://ucsb-meds.github.io/creating-quarto-websites/\nhttps://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/"
+  }
+]
