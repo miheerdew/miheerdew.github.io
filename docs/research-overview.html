@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-01-29">
 
 <title>Miheer Dewaskar - My research</title>
 <style>
@@ -131,6 +132,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 29, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -138,32 +145,18 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>My current research develops general principled frameworks for <strong>robust statistical inference</strong> and <strong>exploratory data analysis</strong> that have applications in a variety of fields like <strong>genomics, neuroscience, and social science</strong>. I am developing theoretically motivated Bayesian and frequentist frameworks to <strong>robustly fit likelihood-based models</strong> that may be misspecified. This methodology is relevant in the current age where we tend to have <strong>big data</strong> that is potentially biased or corrupted (e.g.&nbsp;arising in surveys, health records, etc.). I have also developed new exploratory data analysis methods, e.g.&nbsp;those based on novel <strong>Bayesian density-based clustering</strong> and <strong>iterative-testing</strong> to find combinatorial structures (e.g.&nbsp;networks) for integration of multi-view data. Given my strong background in <strong>stochastic processes</strong> and <strong>large deviation theory</strong>, in the future I aim to develop methods for analysis of time series data and for data assimilation problems that arise in climate modeling.</p>
-
+<p>My long term research goal is to improve stochastic models for complex systems like weather, markets, human brain, etc. that are determined by a large number of factors. I wants to design interpretable mathematical models and sound statistical inference techniques to improve our scientific understanding of these systems.</p>
+<p>Mathematical models for complex systems are intractable, being typically governed by a large number of factors. However, one can often describe the limiting behavior of such systems when the number of factors is large. This is similar to the idea from statistical mechanics that we can describe macroscopic behavior well (e.g.&nbsp;ideal gas laws) even if the microscopic behavior is harder to study. You can find examples of this in my work on <a href="https://lmcs.episciences.org/5647">controlling a population of identical agents</a> and <a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Near-equilibrium-fluctuations-for-supermarket-models-with-growing-choices/10.1214/21-AAP1729.short">load balancing using randomized routing</a>. In this direction, motivated by the search for a more realistic model for the design of data centers, I am currently studying a model for load balancing on networks.</p>
+<p>Naturally, even our best mathematical models can only approximate real systems. This is particularly true of models that manage to capture core mechanisms by making reasonable assumptions for mathematical tractability like Gaussianity, independence, exponentially distributed event times, etc. However it is not clear how to do statistical inference for these models after acknowledging that our model may indeed only be an approximation. Motivated by the coarsened inference framework of <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1469995">Miller and Dunson</a>, I proposed the <a href="https://arxiv.org/abs/2303.10525">principle of optimism in data analysis</a>, which states that one should allow some degree of data re-interpretation to improve inference of approximate models. Along with the theory behind this principle, he is developing practical methods for statistical inference of approximate models and applying it to problems in economics and neuroscience. Apart from this, I am also developing principled statistical frameworks for novel exploratory data analysis tasks like <a href="https://arxiv.org/abs/2403.04912v1">clustering with uncertainty</a> and <a href="https://www.jmlr.org/papers/volume24/22-0581/22-0581.pdf">extracting statistically informative networks from noisy data</a>.</p>
 <!--
-I have training in probability theory, statistical inference, and computer science. I am excited to apply these tools to address important practical problems. My long-term research goal is to improve our understanding of stochastic models for complex systems like climate, markets, etc. that are determined by a large number of factors. I want to pursue both the theoretical study of such models and their sound statistical inference based on observational data.
-
-Mathematical models for complex systems are generally intractable, being governed by a large number of interactions or agents. However, one can often describe the limiting behavior of such systems when the number of interactions is large. This is similar to the idea from statistical mechanics that we can describe macroscopic behavior well (e.g. via Ideal gas laws) even if the microscopic behavior cannot be predicted. You can find examples of this in my work on [controlling a population](https://lmcs.episciences.org/5647) of identical agents and [large-scale load balancing using random routing with choice](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Near-equilibrium-fluctuations-for-supermarket-models-with-growing-choices/10.1214/21-AAP1729.short). Note that both these analyses use very different mathematical techniques: while the former analysis is combinatorial and algorithmic, the latter uses probabilistic tools like stochastic calculus and martingale central limit theorem.
-
-Naturally, any mathematical model will only be a rough approximation to reality. This is particularly going to be true of simple models that are meant to capture core ideas or any model that uses idealistic assumptions like Gaussianity.
-
 Here in an overview of some of my research directions.
 
-### Power of Choice and other rules for bounded rationality
-
+### Power of Choice and rules for bounded rationality
 In the age of massive computational power and data availablity, finding increasingly **optimal solutions** to problems has become possible. However, many resource limited systems (including human beings) can only spend a limited amount on being rational. How then can we make good decisions with limited processing power? One such rule is the power of choice, which roughly says that over the long term, having some choice in the rewards you obtain provides vastly improves your aggregate performance than having no choice. Another, such rule could be called patience, i.e. to avoid action until a favorable circumstance arises. Another such rule, can be having a trade-off between exploration (training) and exploitation (utilization) — spend some time on doing something that is pointless.
 
 In my work, I study simple mathematical models where these rules show benefit. Power choice has been useful for load balancing. I am currently studying its effects on reducing economic inequality. The rule of patience can be seen in a Metropolis Hasting's sampler that can sample from a desired posterior distribution with a simple rule of accepting or rejecting a proposal with a simple probability. The exploration and exploitation trade-off has been seen in the popular multi-armed bandit problem.
 
-In fact, may rules for bounded rationality are common sense sayings that already passed down generations to us like tit for tat (in discussing how to interact with people), try and try till you succeed (on the importance of allowing for failure), measure twice cut once, a stitch in time saves nine, don't be a jack of all and master of none etc. I would like to find mathematical models to quantify the effects of these rules. Thus I want to rigorously study the mathematical properties and perform statistical inference based on the field of [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality).
-
-### Robust Model Fitting
-
-### Bayesian Clustering
-
-### Iterative testing
-
-### Computer Science
+In fact, may rules for [bounded rationality](https://plato.stanford.edu/entries/bounded-rationality/) are common sense sayings that already passed down generations to us like tit for tat (in discussing how to interact with people), try and try till you succeed (on the importance of allowing for failure), measure twice cut once, a stitch in time saves nine, don't be a jack of all and master of none etc. I would like to find mathematical models to quantify the effects of these rules. Thus I want to rigorously study the mathematical properties and perform statistical inference based on the field of [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality).
 -->
 
 

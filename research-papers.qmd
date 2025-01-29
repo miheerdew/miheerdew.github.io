@@ -2,18 +2,18 @@
 title: "Research papers"
 ---
 
-$^1$ indicates joint first authors.<br>
-$^2$ indicates primary contribution and alphabetical author order.
+^1^ indicates joint first authors.<br>
+^2^ indicates primary contribution and alphabetical author order.
 
 ### Peer-reviewed
 
 - [Finding Groups of Cross-Correlated Features in Multi-View data (2023)](https://www.jmlr.org/papers/volume24/22-0581/22-0581.pdf). **Dewaskar M**, Palowitch J, He M, Love M.I., Nobel A.B. *Journal of Machine Learning Research*, VOL. 24. [Code](https://github.com/miheerdew/cbce)
--   [Near Equilibrium Fluctuations for Supermarket Models with Growing Choices (2022)](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Near-equilibrium-fluctuations-for-supermarket-models-with-growing-choices/10.1214/21-AAP1729.short). Bhamidi S, Budhiraja A, and **Dewaskar M$^2$**. *Annals of Applied Probability*, VOL. 32 (NO. 3), 2083-2138.
+-   [Near Equilibrium Fluctuations for Supermarket Models with Growing Choices (2022)](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Near-equilibrium-fluctuations-for-supermarket-models-with-growing-choices/10.1214/21-AAP1729.short). Bhamidi S, Budhiraja A, and **Dewaskar M**^2^. *Annals of Applied Probability*, VOL. 32 (NO. 3), 2083-2138.
 -   [NExG: Provable and Guided State Space Exploration of Neural Network Control Systems using Sensitivity Approximation (2022)](https://ieeexplore.ieee.org/document/9852756/;jsessionid=CC88E614F5A2C0E63F16C206906FF2D0) Goyal M, **Dewaskar M**, Duggirala PS. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2022, doi: 10.1109/TCAD.2022.3197524.
--   [Controlling a population (2019)](https://lmcs.episciences.org/5647). Bertrand N, **Dewaskar M$^2$**, Genest B$^2$, Gimbert H, and Godbole A. *Logical Methods in Computer Science*, Vol. 15, Issue 3.
--   [Controlling a population (2017)](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2017.12). Bertrand N, **Dewaskar M$^2$**, Genest B$^2$, Gimbert H. *28th International Conference on Concurrency Theory (CONCUR 2017).*
+-   [Controlling a population (2019)](https://lmcs.episciences.org/5647). Bertrand N, **Dewaskar M**^2^, Genest B^2^, Gimbert H, and Godbole A. *Logical Methods in Computer Science*, Vol. 15, Issue 3.
+-   [Controlling a population (2017)](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2017.12). Bertrand N, **Dewaskar M**^2^, Genest B^2^, Gimbert H. *28th International Conference on Concurrency Theory (CONCUR 2017).*
 
 ### Preprints
 
-- [Robustifying likelihoods by optimistically re-weighting data](https://arxiv.org/abs/2303.10525). **Dewaskar M$^1$**, Tosh C$^1$, Knoblauch J, Dunson D.B. Under revision at the *Journal of American Statistical Association*. [Code](https://github.com/cjtosh/owl)
-- [Bayesian Level-set Clustering.](https://arxiv.org/abs/2403.04912v1) Buch D$^1$, **Dewaskar M$^1$**, Dunson D.B. Submitted to the *Journal of Machine Learning Research*. [Code](https://github.com/davidbuch/ballet_article)
+- [Robustifying likelihoods by optimistically re-weighting data](https://arxiv.org/abs/2303.10525). **Dewaskar M**^1^, Tosh C$^1$, Knoblauch J, Dunson D.B. [Code](https://github.com/cjtosh/owl)
+- [Bayesian Level-set Clustering.](https://arxiv.org/abs/2403.04912v1) Buch D$^1$, **Dewaskar M**^1^, Dunson D.B. [Code](https://github.com/davidbuch/ballet_article)
