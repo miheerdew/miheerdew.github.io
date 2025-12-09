@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## University of New Mexico 
 
-- STA 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024, Spring 2025).
+- STA 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024/25, Spring 2025).
 
 ## Previous experience
 

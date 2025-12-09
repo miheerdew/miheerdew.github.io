@@ -37,6 +37,7 @@ June 2015.
 
 ## Contributed talks
 
+- **Bayesian Level Set Clustering**. [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/), June 2025, Los Angeles.
 - **Fitting models with misspecified supports using Wasserstein coarsened posteriors**. [Bayesian Young Statisticians Meeting](https://baysmjisba.github.io/recollections.html), November 2023 (online conference).
 - [**High-dimensional problems in
 Correlation Mining and Distributed Load Balancing**](resources/talk-slides/PhD-defense.pdf). PhD thesis defense at University of North Carolina at  Chapel Hill, April 2021.
