@@ -5,6 +5,8 @@ title: "Presentations"
 
 ## Invited talks
 
+[**Bayesian Level Set Clustering**](resources/talk-slides/CMStat25-BALLET.pdf). [19th International Joint Conference CFE-CMStatistics](https://www.cmstatistics.org/CFECMStatistics2025/), Dec 2025 (online talk).
+
 [**Robustifying Likelihoods by Optimistically Re-Weighting Data**](resources/talk-slides/owl.pdf) presented at: 
 
 - [Department of Mathematics](https://www.math.iitb.ac.in/), Indian Institute of Technology (IIT) Bombay, India, July 2024.

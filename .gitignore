@@ -1,4 +1,9 @@
 MiheerDewaskar-old.jpg
 .Rproj.user
-
 /.quarto/
+.Rhistory
+.nojekyll
+_publish.yml
+_site
+.DS_Store
+miheerdew.github.io.Rproj
