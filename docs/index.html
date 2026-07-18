@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Miheer Dewaskar</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./research-papers.html"> 
-<span class="menu-text">Papers</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
@@ -135,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta column-page">
   </div>
 </header><main class="content column-page" id="quarto-document-content">
-<p>I am an Assistant Professor in the <a href="https://math.unm.edu">Department of Mathematics and Statistics</a> at the <a href="https://www.unm.edu/">University of New Mexico</a>.</p>
+<p>Since <strong>2024</strong>, I am an Assistant Professor in the <a href="https://math.unm.edu">Department of Mathematics and Statistics</a> at the <a href="https://www.unm.edu/">University of New Mexico</a>.</p>
 <p>During <strong>2021-2024</strong>, I worked as a postdoc at <a href="https://stat.duke.edu/">Duke University</a> with <a href="https://scholars.duke.edu/person/dunson">David Dunson</a>, developing methods for robust Bayesian inference and clustering.</p>
 <p>During <strong>2016-2021</strong>, I obtained a PhD in Statistics and Operations Research from <a href="https://stor.unc.edu/">UNC Chapel Hill</a>, under the direction of <a href="https://shankarbhamidi.web.unc.edu/">Shankar Bhamidi</a>, <a href="https://abudhiraja.web.unc.edu/">Amarjit Budhiraja</a> in Queuing theory and <a href="https://nobel.web.unc.edu/">Andrew Nobel</a> on application of multiple-testing and correlation mining to problems in genomics like eQTL analysis.</p>
 
@@ -199,13 +202,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
