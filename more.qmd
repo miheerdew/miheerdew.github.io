@@ -4,9 +4,13 @@ title: "Service & Awards"
 
 ## Journals refereed
 
-**Statistics:** Biometrika (2024),  Proceedings of the American Mathematical Society (2025), Journal of Applied Statistics (2025)
-
-**Applied Probability:** Mathematics of Operations Research (2023), Stochastic Processes and their Applications (2025)
+- [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis) (1)
+- [Biometrika](https://academic.oup.com/biomet/) (1)
+- [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20) (1)
+- [Journal of Applied Statistics](https://www.tandfonline.com/journals/cjas20) (1)
+- [Mathematics of Operations Research](https://pubsonline.informs.org/journal/moor) (2)
+- [Proceedings of the American Mathematical Society](https://pubs.ams.org/journals/proc) (1)
+- [Stochastic Processes and their Applications](https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications) (1)
 
 
 ## Awards during education

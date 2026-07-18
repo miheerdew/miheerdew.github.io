@@ -11,7 +11,7 @@ website:
       - href: research-overview.qmd
         text: My research
       - href: research-papers.qmd
-        text: Papers
+        text: Publications
       - teaching.qmd
       - talks.qmd
       - href: more.qmd

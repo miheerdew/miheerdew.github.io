@@ -5,7 +5,12 @@ title: "Presentations"
 
 ## Invited talks
 
-[**Bayesian Level Set Clustering**](resources/talk-slides/CMStat25-BALLET.pdf). [19th International Joint Conference CFE-CMStatistics](https://www.cmstatistics.org/CFECMStatistics2025/), Dec 2025 (online talk).
+[**Bayesian Level Set Clustering**](resources/talk-slides/CMStat25-BALLET.pdf) presented at:
+
+- [4th Bayesian Nonparametrics Networking Workshop](https://bnpnetworking2026.github.io/), July 2026, Seoul, South Korea.
+- [19th International Joint Conference CFE-CMStatistics](https://www.cmstatistics.org/CFECMStatistics2025/), Dec 2025 (online talk).
+
+**Outlier-Robust Bayesian Inference via Coarsening**. [The 2026 ISBA World Meeting](https://isba2026.github.io/), July 2026, Nagoya, Japan.
 
 [**Robustifying Likelihoods by Optimistically Re-Weighting Data**](resources/talk-slides/owl.pdf) presented at: 
 

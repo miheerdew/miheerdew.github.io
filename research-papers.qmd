@@ -1,5 +1,5 @@
 ---
-title: "Research papers"
+title: "Publications"
 ---
 
 ^1^ indicates joint first authors.<br>
@@ -11,7 +11,7 @@ title: "Research papers"
 
 - [Finding Groups of Cross-Correlated Features in Multi-View data (2023)](https://www.jmlr.org/papers/volume24/22-0581/22-0581.pdf). **Dewaskar M**, Palowitch J, He M, Love M.I., Nobel A.B. *Journal of Machine Learning Research*, VOL. 24. [Code](https://github.com/miheerdew/cbce)
 -   [Near Equilibrium Fluctuations for Supermarket Models with Growing Choices (2022)](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Near-equilibrium-fluctuations-for-supermarket-models-with-growing-choices/10.1214/21-AAP1729.short). Bhamidi S, Budhiraja A, and **Dewaskar M**^2^. *Annals of Applied Probability*, VOL. 32 (NO. 3), 2083-2138.
--   [NExG: Provable and Guided State Space Exploration of Neural Network Control Systems using Sensitivity Approximation (2022)](https://ieeexplore.ieee.org/document/9852756/;jsessionid=CC88E614F5A2C0E63F16C206906FF2D0) Goyal M, **Dewaskar M**, Duggirala PS. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2022, doi: 10.1109/TCAD.2022.3197524.
+-   [NExG: Provable and Guided State Space Exploration of Neural Network Control Systems using Sensitivity Approximation (2022)](https://ieeexplore.ieee.org/document/9852756) Goyal M, **Dewaskar M**, Duggirala PS. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2022, doi: 10.1109/TCAD.2022.3197524.
 -   [Controlling a population (2019)](https://lmcs.episciences.org/5647). Bertrand N, **Dewaskar M**^2^, Genest B^2^, Gimbert H, and Godbole A. *Logical Methods in Computer Science*, Vol. 15, Issue 3.
 -   [Controlling a population (2017)](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2017.12). Bertrand N, **Dewaskar M**^2^, Genest B^2^, Gimbert H. *28th International Conference on Concurrency Theory (CONCUR 2017).*
 
