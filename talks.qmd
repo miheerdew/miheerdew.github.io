@@ -28,6 +28,7 @@ USA, June 2023.
 
 Other talks:
 
+- [**Robust Bayesian Clustering**](resources/talk-slides/robust-clustering-OctUNM.pdf). [Department of Mathematics and Statistics](https://math.unm.edu/), University of New Mexico, October 2026.
 - **Bayesian Clustering**. Department of Applied Mathematics, The Maharaja Sayajirao University of Baroda, India, July 2026.
 - [**Analysis of Coarsened Liklihood using Large Deviation Asymptotics**](resources/talk-slides/IITB-Oct2023.pdf). [Department of Mathematics](https://www.math.iitb.ac.in/),  Indian Institute of Technology (IIT) Bombay, India, Oct 2023 (online).
 - **Independence, Lp spaces, and Expectation Inequalities**. Guest Lecture in
