@@ -2,12 +2,12 @@
 title: "Teaching"
 ---
 
-## University of New Mexico 
+## University of New Mexico
 
-- STA 577: Introduction to Bayesian Modeling (Spring 26).
-- STA 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024/25, Spring 2025).
+- STAT 577: Introduction to Bayesian Modeling (Spring 2026).
+- STAT 345: Elements of Mathematical Statistics and Probability Theory (Fall 2024, Spring 2025, Fall 2025, Fall 2026). Course coordinator.
 
 ## Previous experience
 
 - STA 211: Mathematics of Regression ([Fall 2023](https://www2.stat.duke.edu/courses/Fall23/sta211.01/), [Spring 2024](https://www2.stat.duke.edu/courses/Spring24/sta211.01/)) at Duke University.
-- Introduction to Statistical Modeling (Fall 2019) at UNC Chapel Hill.
+- STOR 155: Introduction to Data Models and Inference (Fall 2019) at UNC Chapel Hill.
